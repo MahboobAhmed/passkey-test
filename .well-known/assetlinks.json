@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.vaultera",
       "sha256_cert_fingerprints": [
-        "4F:24:CA:E7:7C:DE:55:EB:4D:24:2B:31:03:7E:C1:97:46:51:A7:5F:2E:1E:23:FA:ED:E3:CE:FD:2B:3D:F5:A7"
+        "4F:24:CA:E7:7C:DE:55:EB:4D:24:2B:31:03:7E:C1:97:46:51:A7:5F:2E:1E:23:FA:ED:E3:CE:FD:2B:3D:F5:A7",
+        "70:ED:F8:F9:59:4D:99:81:B1:84:A4:F1:D8:DB:27:CA:C0:6A:14:AD:2E:E7:26:54:A0:5B:21:6D:AB:57:8C:9F",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
